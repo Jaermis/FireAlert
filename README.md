@@ -5,7 +5,6 @@
 FireAlert is an Arduino-based project designed to detect flames using an infrared (IR) sensor. Originally developed during my senior high school days, this project serves as a proactive fire detection system. Upon detecting flames, FireAlert is programmed to send an immediate text notification to the owner and optionally initiate a call to a predefined number, which could be the fire station or the owner's emergency contact.
 
 ## Features
-***
 * Flame detection using an IR sensor
 * Instant text notifications to the owner upon flame detection
 * Call initiation to a predefined number (fire station or emergency contact)
@@ -18,7 +17,6 @@ To setup FireAlert, follow these steps
 ### Hardware Setup:
 
 1. **Gather Components**: Collect the following components:
-***
   * Arduino UNO R3 Board
   * IR Sensor
   * GSM SIM800L v2 module
@@ -45,7 +43,6 @@ To setup FireAlert, follow these steps
 
 ### Troubleshooting
 
-***
 * If FireAlert does not function as expected, double-check the connections according to the schematic diagram and ensure that all components are properly wired.
 * Verify that the GSM SIM800L v2 module has an active SIM card with network coverage for text messaging and call initiation.
 
